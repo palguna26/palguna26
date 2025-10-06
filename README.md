@@ -10,10 +10,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 LeetCode Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palguna26&theme=tokyonight" alt="palguna26" />
+  <img src="https://leetcard.jacoblin.cool/palguna26?theme=dark&font=Baloo%20Bhai%202&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
