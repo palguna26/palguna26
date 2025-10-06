@@ -85,5 +85,5 @@
 
 Feel free to connect 👇  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Palguna%20Shetty-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/palguna-shetty-ba9924253/)  
-[![Email](https://img.shields.io/badge/Email-palguna263%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palgunashetty263@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-palgunashetty263%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palgunashetty263@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-palguna26-black?style=for-the-badge&logo=github)](https://github.com/palguna26)
