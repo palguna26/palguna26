@@ -8,7 +8,7 @@ Usually shipping at 2AM. Occasionally remembering to sleep.
 
 ## Things I’ve Built
 
-### 🚀 Revflo
+###  Revflo
 
 AI-powered pull request and repo validation.
 
@@ -21,7 +21,7 @@ Hooks into GitHub so setting it up is easy.
 
 ---
 
-### 🧪 EvalSmith
+###  EvalSmith
 
 A CLI for testing whether your “improved” prompt actually improved anything.
 
@@ -38,7 +38,7 @@ Because vibes are not a benchmarking strategy.
 
 ---
 
-### ⚡ PlayGround
+###  PlayGround
 
 Go-powered CLI for AI-assisted dev workflows.
 
@@ -50,7 +50,7 @@ Basically: less tokens, more shipping.
 
 ---
 
-### 😴 Sleep Sensei AI
+###  Sleep Sensei AI
 
 An AI sleep coach built by someone who forgets to sleep while coding.
 
@@ -62,7 +62,7 @@ The irony is intentional.
 
 ---
 
-### 🦀 Termyte
+###  Termyte
 
 Runtime action memory for AI coding agents.
 
