@@ -2,7 +2,7 @@
 
 ### I build AI tools that try to be more useful than “write me a poem.”
 
-Usually shipping at 2AM. Occasionally remembering to sleep.
+Usually shipping at 2AM. Occasionally remembering to sleep. Also runs 5km. 
 
 ---
 
