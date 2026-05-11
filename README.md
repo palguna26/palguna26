@@ -1,69 +1,117 @@
 # Palguna Shetty
 
-**Building tools that make AI actually useful.**
+### I build AI tools that try to be more useful than “write me a poem.”
 
-Final-year CS student at SJCE, Mysuru. I ship things — developer tools, AI pipelines, feedback systems. Interested in roles where I can own hard problems from day one.
-
----
-
-## Projects
-
-### [Revflo](https://github.com/palguna26/revflo)
-AI-powered product intelligence platform. Bridges customer feedback and engineering decisions — think Cursor, but for product managers. Decision Records let teams attach customer evidence to every build choice. Integrates with GitHub and Linear.
-
-`Next.js` `TypeScript` `Supabase` `Groq (Llama)` `Vercel`
+Usually shipping at 2AM. Occasionally remembering to sleep.
 
 ---
 
-### [EvalSmith](https://github.com/palguna26/evalsmith)
-CLI framework for LLM prompt regression testing. Plugs into CI pipelines and compares baseline vs. candidate prompts across accuracy, hallucination rate, latency, and cost. Model-agnostic, MIT licensed.
+## Things I’ve Built
 
-`Python` `CLI` `LLM APIs` `CI/CD`
+### 🚀 Revflo
 
----
+AI-powered pull request and repo validation.
 
-### [PlayGround](https://github.com/palguna26/playground)
-Go CLI tool for AI-assisted development workflows. Optimized the agent loop for high-throughput performance and reduced system prompt token usage by ~60%.
+Think: senior dev reviewing your code, but in 2minutes.
+Every code change is validated with linked issues.
 
-`Go` `LLM APIs` `CLI`
+Hooks into GitHub so setting it up is easy.
 
----
-
-### [Sleep Sensei AI](https://github.com/palguna26/sleep_sensei_ai)
-Cross-platform sleep coaching app. Pulls data from Google Fit, runs habit analysis with TensorFlow, and surfaces personalized recommendations via GPT-4.
-
-`Flutter` `TensorFlow` `GPT-4` `Google Fit`
+**Stack:** `Next.js` `TypeScript` `Supabase` `Groq (Llama)` `Vercel`
 
 ---
 
-### [File Compressor](https://github.com/palguna26/FileCompressor)
-Multithreaded Huffman compression engine in C++. Uses producer-consumer concurrency for high-throughput file compression and decompression.
+### 🧪 EvalSmith
 
-`C++` `Multithreading` `Systems`
+A CLI for testing whether your “improved” prompt actually improved anything.
 
----
+Runs regression tests for LLM prompts across:
 
-## Stack
+* accuracy
+* hallucinations
+* latency
+* cost
 
-**Languages** — Python, TypeScript, Go, C++, Dart  
-**Frontend** — React, Next.js, Tailwind CSS, Flutter  
-**Backend** — FastAPI, Node.js, Supabase, Firebase, MongoDB  
-**AI/ML** — OpenAI, Anthropic, Groq, TensorFlow, LangChain  
-**Infra** — Docker, GitHub Actions, Vercel
+Because vibes are not a benchmarking strategy.
 
----
-
-## Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=palguna26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palguna26&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
-</p>
+**Stack:** `Python` `CLI` `LLM APIs` `CI/CD`
 
 ---
 
-## Connect
+### ⚡ PlayGround
 
-[LinkedIn](https://www.linkedin.com/in/palguna-shetty-ba9924253/) · [Email](mailto:palgunashetty263@gmail.com) · [GitHub](https://github.com/palguna26)
+Go-powered CLI for AI-assisted dev workflows.
 
-Open to early-stage startup roles (full-time or internship) in AI, backend, or full-stack engineering.
+Optimized the agent loop, cut system prompt token usage by ~60%, and made the whole thing way faster.
+
+Basically: less tokens, more shipping.
+
+**Stack:** `Go` `LLM APIs` `CLI`
+
+---
+
+### 😴 Sleep Sensei AI
+
+An AI sleep coach built by someone who forgets to sleep while coding.
+
+Pulls Google Fit data, analyzes habits with TensorFlow, and gives personalized recommendations using GPT-4.
+
+The irony is intentional.
+
+**Stack:** `Flutter` `TensorFlow` `GPT-4` `Google Fit`
+
+---
+
+### 🦀 Termyte
+
+Runtime action memory for AI coding agents.
+
+Sits between agents and execution, blocks risky tool calls, and turns failures into shared memory so future agents don’t repeat the same mistakes.
+
+Because even AI deserves trauma-informed learning.
+
+**Stack:** `Rust` `TypeScript` `Agent Memory` `MCP` `Docker` `Postgres` `Oauth`
+
+---
+
+## Tech I Like Touching
+
+### Languages
+
+`Python` `TypeScript` `Go` `Rust` `C++` `Dart`
+
+### Frontend
+
+`React` `Next.js` `Tailwind CSS` `Flutter`
+
+### Backend
+
+`FastAPI` `Node.js` `Supabase` `Firebase` `MongoDB` `Postgres` `pgvector`
+
+### AI / ML
+
+`OpenAI` `Anthropic` `Groq` `TensorFlow` `LangChain` `LangGraph`
+
+### Infra
+
+`Docker` `GitHub Actions` `Vercel` `Railway` `AWS`
+
+---
+
+## Current Status
+
+* Building weird AI infra tools
+* Probably debugging something right now
+* Open to early-stage startup roles (internship/full-time)
+* Especially interested in AI, backend, infra, and full-stack engineering
+
+---
+
+## Internet Places
+
+* GitHub → https://github.com/palguna26
+* LinkedIn → https://linkedin.com/in/palguna-shetty-ba9924253
+* Email → [palgunashetty263@gmail.com](mailto:palgunashetty263@gmail.com)
+* X → https://x.com/palgunashetty
+
+If you’re building something ambitious, chaotic, or slightly unhinged — we’ll probably get along.
