@@ -1,4 +1,4 @@
-<table>
+<table align="center" width="flex">
 <tr>
 <td width="34%" align="center" valign="top">
 <img src="./assets/ascii-magic-1.gif" width="260" alt="Animated ASCII portrait">
@@ -70,18 +70,16 @@
 </tr>
 </table>
 
+
 <h2>GitHub Activity</h2>
 
-<p align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palguna26&theme=github_dark" alt="GitHub contribution summary">
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=palguna26&theme=github_dark" alt="GitHub statistics">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=palguna26&theme=github_dark&utcOffset=5.5" alt="Productive coding time">
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palguna26&theme=github_dark" alt="Top languages by repository">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=palguna26&theme=github_dark" alt="Top languages by commits">
-</p>
+<table>
+<tr>
+<td width="65%" align="center" valign="middle">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=palguna26&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Palguna's contribution activity">
+</td>
+<td width="35%" align="center" valign="middle">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=palguna26&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Palguna's GitHub statistics">
+</td>
+</tr>
+</table>
