@@ -1,10 +1,10 @@
 <table>
 <tr>
-<td width="34%" align="center" valign="middle">
+<td width="34%" align="center" valign="top">
 <img src="./assets/ascii-magic-1.gif" width="260" alt="Animated ASCII portrait">
 </td>
-<td width="66%" valign="top" align="top">
-<h2>Palguna Shetty</h2>
+<td width="66%" valign="top">
+<strong><big>Palguna Shetty</big></strong>
 <p>Software engineer building AI agents, developer tools, and infrastructure.</p>
 <p>
 <a href="https://github.com/palguna26">GitHub</a> ·
@@ -12,8 +12,37 @@
 <a href="https://x.com/palgunashetty">X</a> ·
 <a href="mailto:palgunashetty26@gmail.com">Email</a>
 </p>
-<p><strong>Stack:</strong><br>
-TypeScript · Python · C++ · Node.js · FastAPI · Next.js · React · PostgreSQL · SQLite · MongoDB · AWS · Vercel · Render
+<p>
+<strong>Languages</strong><br>
+<code>TypeScript</code>
+<code>Python</code>
+<code>C++</code>
+</p>
+<p>
+<strong>Frameworks</strong><br>
+<code>Node.js</code>
+<code>FastAPI</code>
+<code>Next.js</code>
+<code>React</code>
+</p>
+<p>
+<strong>AI</strong><br>
+<code>LangChain</code>
+<code>LangGraph</code>
+<code>LLM APIs</code>
+<code>MCP</code>
+</p>
+<p>
+<strong>Databases</strong><br>
+<code>PostgreSQL</code>
+<code>SQLite</code>
+<code>MongoDB</code>
+</p>
+<p>
+<strong>Cloud & Deployment</strong><br>
+<code>AWS</code>
+<code>Vercel</code>
+<code>Render</code>
 </p>
 </td>
 </tr>
