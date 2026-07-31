@@ -4,7 +4,7 @@
 <img src="./assets/ascii-magic-1.gif" width="260" alt="Animated ASCII portrait">
 </td>
 <td width="66%" valign="top">
-<strong><big>Palguna Shetty</big></strong>
+<strong><big><h1>Palguna Shetty</big></h1></strong>
 <p>Software engineer building AI agents, developer tools, and infrastructure.</p>
 <p>
 <a href="https://github.com/palguna26">GitHub</a> ·
@@ -13,6 +13,7 @@
 <a href="mailto:palgunashetty26@gmail.com">Email</a>
 </p>
 <p>
+
 <strong>Languages:</strong> TypeScript, Python, C++<br>
 <strong>Frameworks:</strong> Node.js, FastAPI, Next.js, React<br>
 <strong>AI:</strong> LangChain, LangGraph, LLM APIs, MCP<br>
