@@ -13,36 +13,11 @@
 <a href="mailto:palgunashetty26@gmail.com">Email</a>
 </p>
 <p>
-<strong>Languages</strong><br>
-<code>TypeScript</code>
-<code>Python</code>
-<code>C++</code>
-</p>
-<p>
-<strong>Frameworks</strong><br>
-<code>Node.js</code>
-<code>FastAPI</code>
-<code>Next.js</code>
-<code>React</code>
-</p>
-<p>
-<strong>AI</strong><br>
-<code>LangChain</code>
-<code>LangGraph</code>
-<code>LLM APIs</code>
-<code>MCP</code>
-</p>
-<p>
-<strong>Databases</strong><br>
-<code>PostgreSQL</code>
-<code>SQLite</code>
-<code>MongoDB</code>
-</p>
-<p>
-<strong>Cloud & Deployment</strong><br>
-<code>AWS</code>
-<code>Vercel</code>
-<code>Render</code>
+<strong>Languages:</strong> TypeScript, Python, C++<br>
+<strong>Frameworks:</strong> Node.js, FastAPI, Next.js, React<br>
+<strong>AI:</strong> LangChain, LangGraph, LLM APIs, MCP<br>
+<strong>DB:</strong> PostgreSQL, SQLite, MongoDB<br>
+<strong>Cloud:</strong> AWS, Vercel, Render
 </p>
 </td>
 </tr>
@@ -95,13 +70,18 @@
 </tr>
 </table>
 
-<h2>GitHub activity</h2>
+<h2>GitHub Activity</h2>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=palguna26&show_icons=true&hide_border=true&theme=transparent" alt="Palguna's GitHub statistics">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=palguna26&hide_border=true&theme=transparent" alt="Palguna's GitHub streak">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palguna26&theme=github_dark" alt="GitHub contribution summary">
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=palguna26&theme=github-compact&hide_border=true&area=true" alt="Palguna's contribution graph">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=palguna26&theme=github_dark" alt="GitHub statistics">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=palguna26&theme=github_dark&utcOffset=5.5" alt="Productive coding time">
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palguna26&theme=github_dark" alt="Top languages by repository">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=palguna26&theme=github_dark" alt="Top languages by commits">
 </p>
