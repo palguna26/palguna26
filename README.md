@@ -1,117 +1,143 @@
-# Palguna Shetty
+<table width="100%">
+  <tr>
+    <td width="34%" align="center" valign="middle">
+  <img
+    src="./assets/ascii-magic-1.gif"
+    width="260"
+    alt="Animated ASCII portrait"
+  />
+</td>
 
-### I build AI tools that try to be more useful than “write me a poem.”
+    <td width="66%" valign="middle">
+      <h1>Palguna Shetty</h1>
 
-Usually shipping at 2AM. Occasionally remembering to sleep. Also runs 5km. 
+      <p>
+        Software engineer building AI agents,
+        developer tools, and infrastructure.
+      </p>
 
----
+      <p>
+        <a href="https://github.com/palguna26">GitHub</a> ·
+        <a href="https://www.linkedin.com/in/palgunashetty26/">LinkedIn</a> ·
+        <a href="https://x.com/YOUR_USERNAME">X</a> ·
+        <a href="mailto:YOUR_EMAIL">Email</a>
+      </p>
 
-## Things I’ve Built
+      <p>
+        <strong>Stack:</strong><br>
+        TypeScript · Python · C++ · Node.js · FastAPI · Next.js ·
+        React · PostgreSQL · SQLite · MongoDB · AWS · Vercel · Render
+      </p>
+    </td>
+  </tr>
+</table>
 
-###  Revflo
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/termyte-labs/termyte">
+          Termyte ↗
+        </a>
+      </h3>
 
-AI-powered pull request and repo validation.
+      <p>
+        Context infrastructure that helps coding agents continue work
+        across sessions without rebuilding project history.
+      </p>
 
-Think: senior dev reviewing your code, but in 2minutes.
-Every code change is validated with linked issues.
+      <p>
+        <code>TypeScript</code>
+        <code>Node.js</code>
+        <code>SQLite</code>
+        <code>MCP</code>
+      </p>
+    </td>
 
-Hooks into GitHub so setting it up is easy.
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/palguna26/freshbrief-agent">
+          FreshBrief ↗
+        </a>
+      </h3>
 
-**Stack:** `Next.js` `TypeScript` `Supabase` `Groq (Llama)` `Vercel`
+      <p>
+        Research agent that finds relevant information and produces
+        concise briefs with citations.
+      </p>
 
----
+      <p>
+        <code>Python</code>
+        <code>LangGraph</code>
+        <code>LangChain</code>
+        <code>LLMs</code>
+      </p>
+    </td>
+  </tr>
 
-###  EvalSmith
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/palguna26/revflo">
+          Revflo ↗
+        </a>
+      </h3>
 
-A CLI for testing whether your “improved” prompt actually improved anything.
+      <p>
+        AI-powered product intelligence and repository analysis for
+        engineering teams.
+      </p>
 
-Runs regression tests for LLM prompts across:
+      <p>
+        <code>Next.js</code>
+        <code>TypeScript</code>
+        <code>Supabase</code>
+        <code>Groq</code>
+      </p>
+    </td>
 
-* accuracy
-* hallucinations
-* latency
-* cost
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/palguna26/evalsmith">
+          EvalSmith ↗
+        </a>
+      </h3>
 
-Because vibes are not a benchmarking strategy.
+      <p>
+        Prompt regression runner that detects changes in LLM output
+        quality before production.
+      </p>
 
-**Stack:** `Python` `CLI` `LLM APIs` `CI/CD`
+      <p>
+        <code>Python</code>
+        <code>Pandas</code>
+        <code>LLM APIs</code>
+        <code>CI</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<h2>GitHub activity</h2>
 
-###  PlayGround
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=palguna26&show_icons=true&hide_border=true&theme=transparent"
+    alt="Palguna's GitHub statistics"
+  />
 
-Go-powered CLI for AI-assisted dev workflows.
+  <img
+    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=palguna26&hide_border=true&theme=transparent"
+    alt="Palguna's GitHub streak"
+  />
+</p>
 
-Optimized the agent loop, cut system prompt token usage by ~60%, and made the whole thing way faster.
-
-Basically: less tokens, more shipping.
-
-**Stack:** `Go` `LLM APIs` `CLI`
-
----
-
-###  Sleep Sensei AI
-
-An AI sleep coach built by someone who forgets to sleep while coding.
-
-Pulls Google Fit data, analyzes habits with TensorFlow, and gives personalized recommendations using GPT-4.
-
-The irony is intentional.
-
-**Stack:** `Flutter` `TensorFlow` `GPT-4` `Google Fit`
-
----
-
-###  Termyte
-
-Runtime action memory for AI coding agents.
-
-Sits between agents and execution, blocks risky tool calls, and turns failures into shared memory so future agents don’t repeat the same mistakes.
-
-Because even AI deserves trauma-informed learning.
-
-**Stack:** `Rust` `TypeScript` `Agent Memory` `MCP` `Docker` `Postgres` `Oauth`
-
----
-
-## Tech I Like Touching
-
-### Languages
-
-`Python` `TypeScript` `Go` `Rust` `C++` `Dart`
-
-### Frontend
-
-`React` `Next.js` `Tailwind CSS` `Flutter`
-
-### Backend
-
-`FastAPI` `Node.js` `Supabase` `Firebase` `MongoDB` `Postgres` `pgvector`
-
-### AI / ML
-
-`OpenAI` `Anthropic` `Groq` `TensorFlow` `LangChain` `LangGraph`
-
-### Infra
-
-`Docker` `GitHub Actions` `Vercel` `Railway` `AWS`
-
----
-
-## Current Status
-
-* Building weird AI infra tools
-* Probably debugging something right now
-* Open to early-stage startup roles (internship/full-time)
-* Especially interested in AI, backend, infra, and full-stack engineering
-
----
-
-## Internet Places
-
-* GitHub → https://github.com/palguna26
-* LinkedIn → https://linkedin.com/in/palguna-shetty-ba9924253
-* Email → [palgunashetty263@gmail.com](mailto:palgunashetty263@gmail.com)
-* X → https://x.com/palgunashetty
-
-If you’re building something ambitious, chaotic, or slightly unhinged — we’ll probably get along.
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=palguna26&theme=github-compact&hide_border=true&area=true"
+    alt="Palguna's contribution graph"
+  />
+</p>
