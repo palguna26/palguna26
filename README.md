@@ -52,7 +52,7 @@
 <h3><a href="https://github.com/palguna26/revflo">Revflo ↗</a></h3>
 <p>AI-powered Pull request review and repository analysis for engineering teams.</p>
 <p>
-<code>Next.js</code>
+<code>React.js</code>
 <code>TypeScript</code>
 <code>Supabase</code>
 <code>Groq</code>
