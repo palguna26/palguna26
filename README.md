@@ -14,11 +14,11 @@
 </p>
 <p>
 
-<strong>Languages:</strong> TypeScript, Python, C++<br>
+<strong>Languages:</strong> TypeScript, Python, C++, SQL, Gobasic)<br>
 <strong>Frameworks:</strong> Node.js, FastAPI, Next.js, React<br>
 <strong>AI:</strong> LangChain, LangGraph, LLM APIs, MCP<br>
 <strong>DB:</strong> PostgreSQL, SQLite, MongoDB<br>
-<strong>Cloud:</strong> AWS, Vercel, Render
+<strong>Cloud:</strong> AWS(basic), Vercel, Render
 </p>
 </td>
 </tr>
@@ -56,6 +56,8 @@
 <code>TypeScript</code>
 <code>Supabase</code>
 <code>Groq</code>
+<code>Python</code>
+<code>FastAPI</code>
 </p>
 </td>
 <td width="50%" valign="top">
