@@ -50,7 +50,7 @@
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/palguna26/revflo">Revflo ↗</a></h3>
-<p>AI-powered product intelligence and repository analysis for engineering teams.</p>
+<p>AI-powered Pull request review and repository analysis for engineering teams.</p>
 <p>
 <code>Next.js</code>
 <code>TypeScript</code>
